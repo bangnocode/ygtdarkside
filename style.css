@@ -1,0 +1,49 @@
+*{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.ygt{
+    color: red;
+}
+
+.darkside{
+    color: white;
+}
+
+
+.navbar-web button{
+    background-color: white;
+}
+
+body{
+    background-color: rgb(29, 29, 29) !important;
+}
+
+.container-thumbnail{
+    height: 35vh;
+    background-image: url(/panorama-foggy-morning-horizontal-blurred-background-with-trees-vector-abstract-landscape_105738-1682.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-page{
+    display: flex;
+    row-gap: 20px;
+}
+
+.row-content h1{
+    color: white;
+}
+
+.row-content h2{
+    color: white;
+    height: 100%;
+}
+
+.tittle-video{
+    height: 100%;
+}
+
+a{
+    text-decoration: none !important;
+}
